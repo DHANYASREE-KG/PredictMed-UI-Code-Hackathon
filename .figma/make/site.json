@@ -1,0 +1,10 @@
+{
+  "description": "Helps hospital teams review synthetic CKD trends and prioritize follow-up, with authorized insurers receiving only approved, minimum-necessary case information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
